@@ -18,5 +18,8 @@ Created **dashboard to analyze the above data using IBM Cognos containing 3 tabs
 
 
 ### Findings and Results
-I have collated in findings in form of presentation as part of the course. 
+I have collated in findings in form of presentation - **IBM Data Analyst Capstone Project.pdf** as part of the course. 
+
+### Acknowledgements
+I would like to thank Cousera, IBM and instructors for making the course easy and explaining the concepts pretty well.
  
